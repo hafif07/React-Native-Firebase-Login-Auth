@@ -5,5 +5,5 @@
 
 
 
-![image.jpg](./index.jpeg)
+![image.jpg](./assets/index.jpeg)
 
